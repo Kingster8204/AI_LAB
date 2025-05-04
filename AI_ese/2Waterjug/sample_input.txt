@@ -1,3 +1,0 @@
-Enter capacity of Jug1: 4
-Enter capacity of Jug2: 3
-Enter target quantity: 2
